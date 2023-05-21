@@ -13,6 +13,7 @@ namespace Examples
 {
     public partial class mainScreen : Form
     {
+
         public string TextInput;
         public int CustomerExpensesId = 0;
         public int CustomerIncomeId = 0;
